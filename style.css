@@ -1,0 +1,133 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.debut {
+    margin: 4%;
+    padding: 2%;
+    background-color: #D0D0D0;
+    display: flex;
+    flex-direction: row;
+}
+
+.cherche {
+    width: 56%;
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.coul1 {
+    background-color: #35BC7A;
+    width: 66%;
+    height: 34%;
+}
+
+.coul2 {
+    background-color: #FF9E00;
+    width: 34%;
+    height: 34%;
+}
+
+.coul3 {
+    background-color: #1E8BC4;
+    width: 33%;
+    height: 33%;
+}
+
+.coul4 {
+    background-color: #F15A49;
+    width: 33%;
+    height: 33%;
+}
+
+.coul5 {
+    background-color: #35BC7A;
+    width: 34%;
+    height: 33%;
+}
+
+.coul6 {
+    background-color: #F86925;
+    width: 33%;
+    height: 33%;
+}
+
+.coul7 {
+    background-color: #1E8BC4;
+    width: 33%;
+    height: 33%;
+}
+
+.coul8 {
+    background-color: #F86925;
+    width: 34%;
+    height: 33%;
+}
+
+.text {
+    color: white;
+    margin-left: 6%;
+    font-family: Calibri, sans-serif;
+}
+
+h1 {
+    margin-top: 8%;
+    margin-bottom: 4%;
+}
+
+p {
+    margin-bottom: 1%;
+}
+
+.pop1 {
+    margin: 27.2% 29%;
+}
+
+.pop2 {
+    margin: 32.9% 29%;
+}
+
+.pop3 {
+    margin: 30.7% 29%;
+}
+
+.pop4 {
+    margin: 30% 32%;
+}
+
+.pop5 {
+    margin: 34.3% 26%;
+}
+
+.pop6 {
+    margin: 32.8% 29%;
+}
+
+.pop7 {
+    margin: 30% 28%;
+}
+
+button {
+    background-color: #35BC7A;
+    margin: 3% -4% 8% 6%;
+    border: 3px solid white;
+    padding-right: 5%;
+}
+
+.bule1 {
+    margin: 7%;
+}
+
+.bule2 {
+    margin: 6%;
+}
+
+.photo {
+    height: 803px;
+    width: 100%;
+}
+
